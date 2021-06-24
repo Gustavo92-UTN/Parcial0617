@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.caja{
+    width: auto;
+    /* border: 1px solid red; */
+}
+
+header{
+    text-align: center;
+    background-color: #F4F1BB;
+}
+
+img{
+    width: 100%;
+}
+
+footer{
+    text-align: center;
+    padding: 10px 0 10px 0;
+    background-color: #acacac;
+}
